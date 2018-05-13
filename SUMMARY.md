@@ -10,5 +10,5 @@
 * [バリエーションルール](variation.md)
 * [初心者へのアドバイス](advice.md)
 * [作戦](tactics.md)
-* チュートリアル
+* [チュートリアル](tutorial.md)
 
