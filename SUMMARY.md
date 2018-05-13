@@ -1,6 +1,6 @@
 # Table of contents
 
-* [人狼ゲームの遊び方](README.md)
+* 人狼ゲームの遊び方
 * [はじめに](intro.md)
 * [ストーリー](story.md)
 * [ルール](rule.md)
