@@ -1,6 +1,7 @@
 # Table of contents
 
-* [はじめに](README.md)
+* [人狼ゲームの遊び方](README.md)
+* [はじめに](intro.md)
 * [ストーリー](story.md)
 * [ルール](rule.md)
 * [役職紹介](roles.md)
