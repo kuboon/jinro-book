@@ -12,5 +12,5 @@
 * [チュートリアル](tutorial.md)
 * [バリエーションルール](variation.md)
 * [作戦](tactics.md)
-* [役職紹介 \(上級者向け\)](ke.md)
+* [役職紹介 \(上級者向け\)](advanced-roles.md)
 
