@@ -1,6 +1,6 @@
 # Table of contents
 
-* 目次
+* [目次](README.md)
 * [はじめに](intro.md)
 * [ストーリー](story.md)
 * [ルール](rule.md)
@@ -13,4 +13,5 @@
 * [バリエーションルール](variation.md)
 * [作戦](tactics.md)
 * [役職紹介 \(上級者向け\)](advanced-roles.md)
+* [より良いルールブックへ](to-be-better-rulebook.md)
 
